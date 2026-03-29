@@ -1,0 +1,28 @@
+---
+import { navigation, siteTitle } from '../site';
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+	<div class="container header-inner">
+		<a class="site-brand" href="/">{siteTitle}</a>
+		<nav aria-label="Päävalikko">
+			<ul class="site-nav">
+				{
+					navigation.map((item) => {
+						const isActive = currentPath === item.href;
+
+						return (
+							<li>
+								<a class={isActive ? 'is-active' : undefined} href={item.href}>
+									{item.label}
+								</a>
+							</li>
+						);
+					})
+				}
+			</ul>
+		</nav>
+	</div>
+</header>
