@@ -2,6 +2,12 @@
 import { navigation, siteTitle } from '../site';
 
 const currentPath = Astro.url.pathname;
+
+const isGroup = (
+	item: (typeof navigation)[number]
+): item is Extract<(typeof navigation)[number], { children: unknown }> => {
+	return 'children' in item;
+};
 ---
 
 <header class="site-header">
@@ -11,6 +17,36 @@ const currentPath = Astro.url.pathname;
 			<ul class="site-nav">
 				{
 					navigation.map((item) => {
+						if (isGroup(item)) {
+							const isOpen = item.children.some((child) => currentPath === child.href);
+
+							return (
+								<li class="site-nav-group">
+									<details open={isOpen}>
+										<summary class={isOpen ? 'is-active' : undefined}>{item.label}</summary>
+										<ul class="site-subnav">
+											{
+												item.children.map((child) => {
+													const isChildActive = currentPath === child.href;
+
+													return (
+														<li>
+															<a
+																class={isChildActive ? 'is-active' : undefined}
+																href={child.href}
+															>
+																{child.label}
+															</a>
+														</li>
+													);
+												})
+											}
+										</ul>
+									</details>
+								</li>
+							);
+						}
+
 						const isActive = currentPath === item.href;
 
 						return (

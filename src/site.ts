@@ -1,11 +1,29 @@
 export const siteTitle = 'parantaja.fi';
 
-export const defaultDescription =
-	'Yksinkertainen ja selkeä pohja parantaja.fi-sivuston sisällölle.';
+export const defaultDescription = 'parantaja.fi';
 
-export const navigation = [
+export interface NavigationLink {
+	href: string;
+	label: string;
+}
+
+export interface NavigationGroup {
+	label: string;
+	children: NavigationLink[];
+}
+
+export type NavigationItem = NavigationLink | NavigationGroup;
+
+export const navigation: NavigationItem[] = [
 	{ href: '/', label: 'Etusivu' },
+	{
+		label: 'Pekka-Ilmari',
+		children: [
+			{ href: '/sanottua', label: 'Minusta sanottua' },
+			{ href: '/meista', label: 'Kuka minä olen?' },
+			{ href: '/maailmankuva', label: 'Maailmankuvani' },
+		],
+	},
 	{ href: '/palvelut', label: 'Palvelut' },
-	{ href: '/meista', label: 'Meistä' },
-	{ href: '/yhteys', label: 'Yhteys' },
-];
+	{ href: '/hinnasto', label: 'Hinnattomuus' },
+	{ href: '/yhteys', label: 'Yhteystiedot' },];
