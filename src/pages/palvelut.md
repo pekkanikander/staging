@@ -49,6 +49,13 @@ mahdollistan samalla laajemman parantumisen.
 Poistan parantumisen esteitä.
 Tämä on kaikessa tässä työssäni ensisijainen tavoitteeni.
 
+Ota huomioon, että en tee kirjallisia sopimuksia palveluistani
+enkä aseta niille tarkkoja aikatauluja.
+Voimme toki kirjata johonkin tiedostoon tai ketterän kehityksen järjestelmään,
+mikä on kullakin hetkellä tavoite.
+Tämä ei kuitenkaan muodosta juridista sopimusta tai sopimusvelvoitetta.
+Työskentely kanssani tarkoittaa työskentenlyä sopimuksettomassa tilassa.
+
 Jos olet kiinnostunut järjestelmien parantamisesta,
 [lähetä sähköpostia tai varaa tutustumispuhelu](yhteys).
 

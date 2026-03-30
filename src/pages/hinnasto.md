@@ -33,8 +33,13 @@ normien mukaisesti.
 Jos olet tyytyväinen ja arvostat elämäntapaani,
 maksat sen mukaan, miten arvotat työni ja mitä kykenet maksamaan.
 Jos olet vähävarainen, voit jättää kokonaan maksamatta tai maksaa vain vähän.
-Jos sinulla on varaa, toivon sinun maksavan sen verran,
+Jos sinulla tai yritykselläsi on varaa, toivon sinun maksavan sen verran,
 minkä arvoiseksi työni koet.
+
+Jos yrityksesi vaatii, että sinun pitää tietää ennen palvelun tilaamista,
+mitä palvelu tulee maksamaan, voit toki päättää hinnan myös etukäteen.
+Jos näin teet, minä olen mieluummin tietämättä, mitä olet päättänyt.
+Ota kuitenkin huomioon, että en tee kirjallisia sopimuksia.
 
 ## Elintasoni ja elämäntapani
 
