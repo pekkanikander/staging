@@ -18,12 +18,25 @@ const isGroup = (
 				{
 					navigation.map((item) => {
 						if (isGroup(item)) {
-							const isOpen = item.children.some((child) => currentPath === child.href);
+							const isActive = item.href === currentPath;
+							const isOpen =
+								isActive || item.children.some((child) => currentPath === child.href);
 
 							return (
 								<li class="site-nav-group">
 									<details open={isOpen}>
-										<summary class={isOpen ? 'is-active' : undefined}>{item.label}</summary>
+										<summary class={item.href ? 'has-link' : isOpen ? 'is-active' : undefined}>
+											{item.href ? (
+												<a
+													class={isOpen ? 'is-active' : undefined}
+													href={item.href}
+												>
+													{item.label}
+												</a>
+											) : (
+												item.label
+											)}
+										</summary>
 										<ul class="site-subnav">
 											{
 												item.children.map((child) => {
