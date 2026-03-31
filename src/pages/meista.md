@@ -21,10 +21,6 @@ Minussa on kaksi puolta: [Pekka](#pekka) ja [Ilmari](#ilmari).
 Ja lisäksi monta osaa, monta [muuta persoonallisuutta](#muut-osani).
 
 Koska minussa on Pekka ja Ilmari, olen Pekka-Ilmari.
-Syntymänimeni ovat siis Pekka ja Ilmari. Se on myös edelleen virallinen nimeni.
-Mutta Pekka-Ilmariksi kutsun itseäni, paremman puutteessa.
-Sinäkin voit kutsua minua Pekka-Ilmariksi.
-Koen itseni kokonaisemmaksi, kun teet niin.
 
 ### Tarinani, lyhyesti
 

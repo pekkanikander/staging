@@ -10,7 +10,7 @@ Pekka-Ilmari Nikander<br>
 Port Arthur<br>
 20100 TURKU
 
-Email: [info@parantaja.fi](mailto:info@parantaja.fi)
+Email: [info@parantaja.fi](mailto:info@parantaja.fi?subject=Yhteys)
 
 ## Ajanvaraus tutustumispuhelua varten
 
