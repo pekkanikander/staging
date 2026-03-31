@@ -12,7 +12,7 @@ Parantumisen yleisin este on pelko.
 
 <a target="_blank" href="https://vello.fi/parantaja" class="button-primary">Varaa tutustumispuhelu</a>
 
-Parannamme [järjestelmiä](palvelut#kehittaminen) ja [ihmisiä](palvelut#hoidot).
+Parannamme [järjestelmiä](/yksinkertaistaminen) ja [ihmisiä](/hoidot).
 Tämä ei ole ihan tavanomaista.
 Saatat hämmentyä.
 Saatat kääntyä kannoillasi.

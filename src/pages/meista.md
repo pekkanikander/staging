@@ -47,7 +47,7 @@ Enkä oikeastaan tiedä vieläkään.
 Mutta nyt osaan elää tässä ei-tietämisen tilassa.
 
 Maailmankuvani hajosi.
-Kesti pitkään, ennen kuin sain rakennettua [uuden](maailmankuva).
+Kesti pitkään, ennen kuin sain rakennettua [uuden](/maailmankuva).
 
 Ehkä suurimpana muutoksena tajusin, että en ole yksi, niin kuin olin siihen asti luullut.
 Kokemukseni muuttui täysin.
@@ -80,7 +80,7 @@ Ei hän ihmisiä näe tai ymmärrä, tunnetasolla.
 Mutta tarvittaessa hän yrittää mennä läpi harmaan kiven, jopa onnistuen siinä toisinaan.
 
 Pekka rakastaa ratkaista ongelmia ja parantaa maailmaan.
-Niinpä hän toivoo voivansa [parantaa järjestelmiä](palvelut#kehittaminen).
+Niinpä hän toivoo voivansa [parantaa järjestelmiä](/yksinkertaistaminen).
 
 ### Ilmari
 
@@ -119,4 +119,4 @@ Kaikkia osiani en vielä tunne.
 Hoitajia minussa on ainakin kaksi.
 Kutsun heitä paremman puutteissa hoitajaksi ja karhu-shamaaniksi.
 
-Lyhyet kuvaukset hoitajista löydät [palvelut](palvelut#hoito)-sivulta.
+Lyhyet kuvaukset hoitajista löydät [palvelut](/hoidot)-sivulta.

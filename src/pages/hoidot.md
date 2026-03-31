@@ -6,14 +6,14 @@ description: Ihmisten parantaminen
 
 # Ihmisten parantaminen
 
-Tekemiäni hoitoja voi olla vaikea ymmärtää ymmärtämättä [maailmankuvaani](maailmankuva) ja sitä,
-[kuka ja millainen koen olevani](meista).
+Tekemiäni hoitoja voi olla vaikea ymmärtää ymmärtämättä [maailmankuvaani](/maailmankuva) ja sitä,
+[kuka ja millainen koen olevani](/meista).
 Jos hämmennyt tätä sivua lukiessasi, kannattaa ehkä lukea ensin nuo kaksi sivua.
 
 ---
 
 Koen, että minussa on kaksi hoitajaa.
-Koen nämä hoitajat [erillisiksi persoonallisuuksiksi](meista#hoitajat), jotka toimivat kauttani.
+Koen nämä hoitajat [erillisiksi persoonallisuuksiksi](/meista#hoitajat), jotka toimivat kauttani.
 
 Toinen hoitajista on keski-ikäinen _parantajanainen_, joka parantaa käsillään.
 Kun hän toimii kauttani, käteni etsivät kehostasi kipupisteitä ja hoitavat niitä.
@@ -34,7 +34,7 @@ Tätä on kuitenkin vaikea sanoin kuvailla.
 
 En pysty selittämään, miten nämä hoitajat minussa toimivat.
 Jos tulet hoitooni, sinun on kuitenkin tärkeää ymmärtää,
-että [en ole saanut tässä elämässä minkäänlaista koulutusta tekemääni hoitotyöhön.](sopimusehdot#hoitoihin-liittyvät-riskit)
+että [en ole saanut tässä elämässä minkäänlaista koulutusta tekemääni hoitotyöhön.](/sopimusehdot#hoitoihin-liittyvät-riskit)
 Koen, että kaikki mitä osaan, mitä nuo hoitajat kauttani tekevät, tulee jostain muualta.
 Ehkä jostain edellisestä elämästä.
 Ehkä jostain muusta lähteestä, jota en kenties edes osaa kuvitella.
@@ -57,5 +57,4 @@ Hoitotyötä teen pääsääntöisesti Turussa.
 Hoitoon sinun on hyvä varata vähintään 1.5 tuntia.
 Etähoitoja en tee kuin poikkeustapauksissa.
 
-Jos olet kiinnostunut vastaanottamaan hoidon kauttani,
-[varaa tutustumispuhelu](yhteys).
+[Varaa tutustumispuhelu](/yhteys)

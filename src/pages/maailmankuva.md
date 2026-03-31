@@ -86,7 +86,7 @@ Välillä heikompana ja välillä vahvempana se jatkuu edelleen.
 ### Maailmankuvan murros
 
 Kokemusmaailmani muuttui heräämisen myötä lopullisesti.
-En voinut enää kieltää minussa herännyttä [Ilmaria](meista#ilmari)
+En voinut enää kieltää minussa herännyttä [Ilmaria](/meista#ilmari)
 enkä sitä, että minussa on parantajan ja näkijän kykyjä.
 
 Lähes minkä tahansa yksittäisen tavanomaisesta poikkeavan kokemukseni

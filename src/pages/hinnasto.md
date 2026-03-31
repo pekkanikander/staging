@@ -14,12 +14,12 @@ Haluan käyttää elämäni antamalla lahjoja muille.
 En hinnoittele työtäni mitenkään.
 Sinä päätät palvelun vastaanotettuasi, mitä maksat.
 
-Kaikki [hoitotyöstä](palvelut#hoidot) saamani palkkiot
+Kaikki [hoitotyöstä](/hoidot) saamani palkkiot
 lahjoitan suoraan lyhentämättöminä
 [Suomen Kestävän Elämäntavan Yhteisöt](https://skey.fi) ry:lle tai
 [Ikikaiku](https://ikikaiku.fi) säätiölle.
 
-Muusta työstä (ks. [palvelut](palvelut)) saamani palkkiot
+Muusta työstä (ks. [palvelut](/palvelut)) saamani palkkiot
 laskutan normaalisti arvollisäverollisina palveluina.
 Lähetän sinulle laskun, jonka summa on avoin.
 Sinä päätät palvelun saatuasi, mitä maksat.

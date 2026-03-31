@@ -1,7 +1,15 @@
 ---
 import { navigation, siteTitle } from '../site';
 
-const currentPath = Astro.url.pathname;
+const normalizePath = (path: string) => {
+	if (path !== '/' && path.endsWith('/')) {
+		return path.slice(0, -1);
+	}
+
+	return path;
+};
+
+const currentPath = normalizePath(Astro.url.pathname);
 
 const isGroup = (
 	item: (typeof navigation)[number]

@@ -4,7 +4,9 @@ title: Lisenssiehdot
 description: Avoimen lähdekoodin ja Creative Commons lisenssit
 ---
 
-# Lisenssiehdot
+# Avoimuus
+
+## Lisenssiehdot
 
 Kaiken ohjelmistokoodin ja kirjoittamamme tekstin julkaisemme sopivan
 [avoimen lähdekoodin](https://fi.wikipedia.org/wiki/Avoin_lähdekoodi) tai

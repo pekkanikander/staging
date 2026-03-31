@@ -27,7 +27,7 @@ Lähtökohtamme yksinkertaistamisessa tarkoituksen ja rajapintojen syvällinen y
 Nämä kartoitamme pitämällä työpajoja ja haastattelemalla avaintoimijoita.
 Näistä saatavat tiedot koostamme joko esitysmateriaaliksi tai tekstiksi.[^1]
 
-[^1]: [Lisää ohjelmistokoodin ja muiden tuotosten lisenssiehdoista](lisenssit)
+[^1]: [Lisää ohjelmistokoodin ja muiden tuotosten lisenssiehdoista](/lisenssit#lisenssiehdot)
 
 Kun ymmärrämme yhdessä yksinkertaistettavan järjestelmän syvällisemmän olemassaolon tarkoituksen
 ja sen rajapinnat ympäröivien järjestelmien kanssa, voimme suunnitella, miten järjestelmää voi yksinkertaistaa.
@@ -38,16 +38,16 @@ pyrimme saamaan tekemämme muutokset osaksi kunkin komponentin virallista versio
 
 ## Työn elävyys
 
-Ota huomioon, että [emme tee kirjallisia sopimuksia palveluistani](sopimusehdot)
+Ota huomioon, että [emme tee kirjallisia sopimuksia palveluistani](/sopimusehdot)
 emmekä aseta niille tarkkoja aikatauluja.
 Voimme toki kirjata johonkin tiedostoon tai ketterän kehityksen järjestelmään,
 mikä on kullakin hetkellä tavoite.
-Tämä **ei** kuitenkaan muodosta [juridista sopimusta tai sopimusvelvoitetta](sopimusehdot).
+Tämä **ei** kuitenkaan muodosta [juridista sopimusta tai sopimusvelvoitetta](/sopimusehdot).
 Työskentely kanssamme tarkoittaa työskentenlyä sopimuksettomassa tilassa.
 
 ## Tekniset osaamisalueemme
 
-Tällä hetkellä ainoa teknistä osaamista omaava osamme on [Pekka](meista#pekka).
+Tällä hetkellä ainoa teknistä osaamista omaava osamme on [Pekka](/meista#pekka).
 
 Pekka on tehnyt ohjelmistokehitystä vuodesta 1980,
 niin yksin kuin johtaen pieniä kehitystiimejä.
@@ -74,7 +74,7 @@ Tekoälyn avustuksella hän on lisäksi viime vuosina tehnyt mm.
 ## Avoin lähdekoodi ja Creative Commons
 
 Nykyisin teemme vain hankkeita, jotka ovat samalla yleishyödyllisiä.
-[Julkaisemme](lisenssit) kaiken kehittämämme ohjelmistokoodin avoimena lähdekoodina
+[Julkaisemme](/lisenssit) kaiken kehittämämme ohjelmistokoodin avoimena lähdekoodina
 ja kaiken kirjoittamamme tekstin joko ilman kopiointisuojaa tai
 [Creative Commons](https://creativecommons.org) lisenssillä.
 
