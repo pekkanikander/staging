@@ -4,9 +4,9 @@ title: Meistä
 description: Keitä me oikein olemme
 ---
 
-
-
 # Pekka-Ilmari Nikander
+
+![Pekka-Ilmari](/images/pekka-ilmari.jpeg)
 
 Syntymänimeni ovat Pekka ja Ilmari.
 Pekka Ilmari, ilman väliviivaa, on myös edelleen virallinen nimeni.

@@ -22,7 +22,6 @@ Voit lähteä.
 
 Jos päätät jäädä,
 jos pystyt avaamaan ajatteluasi ja hyväksymään sen,
-että Parantaja ei ole mitään tavanomaista,
-saatat yllättyä positiivisesti.
+että Parantaja ei ole mitään tavanomaista, saatat yllättyä.
 Ehkä löydät jotain sellaista,
 mitä et mistään muualta saa.

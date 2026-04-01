@@ -23,7 +23,7 @@ Useimmiten järjestelmiä rakennettaessa kiinnitetään liian vähän huomiota
 toisaalta todellisiin tarpeisiin ja toisaalta järjestelmän itsensä ja
 sitä ympäröivän järjestelmän rajapintoihin.
 
-Lähtökohtamme yksinkertaistamisessa tarkoituksen ja rajapintojen syvällinen ymmärtäminen.
+Lähtökohtamme yksinkertaistamisessa on tarkoituksen ja rajapintojen syvällinen ymmärtäminen.
 Nämä kartoitamme pitämällä työpajoja ja haastattelemalla avaintoimijoita.
 Näistä saatavat tiedot koostamme joko esitysmateriaaliksi tai tekstiksi.[^1]
 
@@ -43,7 +43,7 @@ emmekä aseta niille tarkkoja aikatauluja.
 Voimme toki kirjata johonkin tiedostoon tai ketterän kehityksen järjestelmään,
 mikä on kullakin hetkellä tavoite.
 Tämä **ei** kuitenkaan muodosta [juridista sopimusta tai sopimusvelvoitetta](/sopimusehdot).
-Työskentely kanssamme tarkoittaa työskentenlyä sopimuksettomassa tilassa.
+Työskentely kanssamme tarkoittaa työskentelyä sopimuksettomassa tilassa.
 
 ## Tekniset osaamisalueemme
 
@@ -51,7 +51,7 @@ Tällä hetkellä ainoa teknistä osaamista omaava osamme on [Pekka](/meista#pek
 
 Pekka on tehnyt ohjelmistokehitystä vuodesta 1980,
 niin yksin kuin johtaen pieniä kehitystiimejä.
-Hän ollut mukana kirjoittamassa reilua sataa vertaisarvioituja julkaisua ja standardia,
+Hän on ollut mukana kirjoittamassa reilua sataa vertaisarvioituja julkaisua ja standardia,
 joihin on viitattu noin 10000 kertaa.
 [Google Scholarin mukaan](https://scholar.google.com/citations?user=hkoBG7oAAAAJ&hl=en&oi=ao)
 hänen H-indeksinsä on 47;
@@ -59,12 +59,6 @@ hänen H-indeksinsä on 47;
 D-indeksi on 41.
 
 Pekan keskeisiä osaamisalueita ovat tietoturva ja tavaroiden Internet (IoT).
-Hänen aiempia projektejaan ovat mm.
-[GMeRitS](https://gmerits.eu),
-[ATARCA](https://atarca.eu) ja
-[SOFIE](https://sofie-iot.eu).
-Näissä kaikissa projekteissa hänen ideansa ja ajatuksensa olivat keskeisessä
-roolissa projektia määriteltäessä ja EU-rahoitusta haettaessa.
 
 Tekoälyn avustuksella hän on lisäksi viime vuosina tehnyt mm.
 [laajennuksia Android sovelluksiin](https://github.com/pekkanikander/Signal-Android-Accessibility-Kiosk),
@@ -78,7 +72,7 @@ Nykyisin teemme vain hankkeita, jotka ovat samalla yleishyödyllisiä.
 ja kaiken kirjoittamamme tekstin joko ilman kopiointisuojaa tai
 [Creative Commons](https://creativecommons.org) lisenssillä.
 
-Koemme, että kun annamme kehitystyöni tulokset julkisiksi,
+Koemme, että kun annamme kehitystyömme tulokset julkisiksi,
 mahdollistamme samalla laajemman parantumisen.
 Poistamme näin parantumisen esteitä.
 Tämä on kaikessa tässä työssämme ensisijaisen tärkeää.

@@ -9,6 +9,7 @@ description: Ihmisten parantaminen
 Tekemiäni hoitoja voi olla vaikea ymmärtää ymmärtämättä [maailmankuvaani](/maailmankuva) ja sitä,
 [kuka ja millainen koen olevani](/meista).
 Jos hämmennyt tätä sivua lukiessasi, kannattaa ehkä lukea ensin nuo kaksi sivua.
+Huomaathan, että nämä hoidot eivät voi korvata lääketieteellistä hoitoa.
 
 ---
 
@@ -39,10 +40,14 @@ Koen, että kaikki mitä osaan, mitä nuo hoitajat kauttani tekevät, tulee jost
 Ehkä jostain edellisestä elämästä.
 Ehkä jostain muusta lähteestä, jota en kenties edes osaa kuvitella.
 
-Minulle on tärkeää, että nuo hoidot toimivat. Eivät aina, mutta yleensä.
+Minulle on tärkeää, että nuo hoidot toimivat[^1]. Eivät aina, mutta yleensä.
 Koska ne toimivat, koen hyväksi tarjota niitä palveluna.
 Joskus toki käy niin, että hoitajat minussa kieltäytyvät hoitamasta.
 Silloin minun on ihan turha yrittää mitään.
+
+[^1]: Hoitojen toimivuus ei tarkoita sitä, että hoidot parantaisivat sinua, millään lailla.
+    Toimiessaan hoidot poistavat sisäisiä paranemisen esteitä.
+    Jos tämä mietityttää sinua, voimme keskustella tästä tutustumispuhelussa tai juuri ennen hoitoa.
 
 Koen, että kun annan hoitajieni hoitaa ihmisiä,
 mahdollistan sekä yksilön että yhteisön paranemisen.

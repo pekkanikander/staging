@@ -35,7 +35,7 @@ täysin vapaana tai Creative Commons lisenssillä.
 
 ### EU-rahoitus
 
-Toisinaan parannamme auttamalla yleishyödyllisten hakkeiden
+Toisinaan parannamme auttamalla yleishyödyllisten hankkeiden
 EU-rahoituksen haussa.
 
 [EU-rahoitus](/eu-rahoitus)

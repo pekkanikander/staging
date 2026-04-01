@@ -20,7 +20,7 @@ lahjoitan suoraan lyhentämättöminä
 [Ikikaiku](https://ikikaiku.fi) säätiölle.
 
 Muusta työstä (ks. [palvelut](/palvelut)) saamani palkkiot
-laskutan normaalisti arvollisäverollisina palveluina.
+laskutan normaalisti arvonlisäverollisina palveluina.
 Lähetän sinulle laskun, jonka summa on avoin.
 Sinä päätät palvelun saatuasi, mitä maksat.
 

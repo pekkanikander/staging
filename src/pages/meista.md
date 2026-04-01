@@ -79,7 +79,7 @@ Hän ei juurikaan näe eikä kuule ympärilleen.
 Ei hän ihmisiä näe tai ymmärrä, tunnetasolla.
 Mutta tarvittaessa hän yrittää mennä läpi harmaan kiven, jopa onnistuen siinä toisinaan.
 
-Pekka rakastaa ratkaista ongelmia ja parantaa maailmaan.
+Pekka rakastaa ratkaista ongelmia ja parantaa maailmaa.
 Niinpä hän toivoo voivansa [parantaa järjestelmiä](/yksinkertaistaminen).
 
 ### Ilmari
