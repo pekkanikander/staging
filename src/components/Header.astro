@@ -10,12 +10,6 @@ const normalizePath = (path: string) => {
 };
 
 const currentPath = normalizePath(Astro.url.pathname);
-
-const isGroup = (
-	item: (typeof navigation)[number]
-): item is Extract<(typeof navigation)[number], { children: unknown }> => {
-	return 'children' in item;
-};
 ---
 
 <header class="site-header">
@@ -25,20 +19,20 @@ const isGroup = (
 			<ul class="site-nav">
 				{
 					navigation.map((item) => {
-						if (isGroup(item)) {
-							const isActive = item.href === currentPath;
+						const hasChildren = Boolean(item.children?.length);
+						const isActive = item.href === currentPath;
+
+						if (hasChildren) {
 							const isOpen =
-								isActive || item.children.some((child) => currentPath === child.href);
+								isActive ||
+								item.children!.some((child) => child.href === currentPath);
 
 							return (
 								<li class="site-nav-group">
 									<details open={isOpen}>
 										<summary class={item.href ? 'has-link' : isOpen ? 'is-active' : undefined}>
 											{item.href ? (
-												<a
-													class={isOpen ? 'is-active' : undefined}
-													href={item.href}
-												>
+												<a class={isOpen ? 'is-active' : undefined} href={item.href}>
 													{item.label}
 												</a>
 											) : (
@@ -47,7 +41,7 @@ const isGroup = (
 										</summary>
 										<ul class="site-subnav">
 											{
-												item.children.map((child) => {
+												item.children!.map((child) => {
 													const isChildActive = currentPath === child.href;
 
 													return (
@@ -67,8 +61,6 @@ const isGroup = (
 								</li>
 							);
 						}
-
-						const isActive = currentPath === item.href;
 
 						return (
 							<li>

@@ -2,18 +2,11 @@ export const siteTitle = 'parantaja.fi';
 
 export const defaultDescription = 'parantaja.fi';
 
-export interface NavigationLink {
-	href: string;
+export interface NavigationItem {
 	label: string;
-}
-
-export interface NavigationGroup {
 	href?: string;
-	label: string;
-	children: NavigationLink[];
+	children?: NavigationItem[];
 }
-
-export type NavigationItem = NavigationLink | NavigationGroup;
 
 export const navigation: NavigationItem[] = [
 	{ href: '/', label: 'Etusivu' },
@@ -31,7 +24,7 @@ export const navigation: NavigationItem[] = [
 		label: 'Palvelut',
 		children: [
 			{ href: '/hoidot', label: 'Ihmisten parantaminen' },
-			{ href: '/yksinkertaistaminen', label: 'Yksikertaistaminen' },
+			{ href: '/yksinkertaistaminen', label: 'Yksinkertaistaminen' },
 			{ href: '/eu-rahoitus', label: 'EU-rahoitus' }
 		],
 	},
