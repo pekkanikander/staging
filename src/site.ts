@@ -25,7 +25,8 @@ export const navigation: NavigationItem[] = [
 		children: [
 			{ href: '/hoidot', label: 'Ihmisten parantaminen' },
 			{ href: '/yksinkertaistaminen', label: 'Yksinkertaistaminen' },
-			{ href: '/eu-rahoitus', label: 'EU-rahoitus' }
+			{ href: '/eu-rahoitus', label: 'EU-rahoitus' },
+			{ href: '/tutkimus', label: 'Tutkimus' }
 		],
 	},
 	{
@@ -33,7 +34,8 @@ export const navigation: NavigationItem[] = [
 		label: 'Hinnattomuus',
 		children: [
 			{ href: '/sopimusehdot', label: 'Sopimuksettomuus' },
-			{ href: '/lisenssit', label: 'Avoimuus'}
+			{ href: '/lisenssit', label: 'Avoimuus'},
+			{ href: '/eettiset-periaatteet', label: 'Eettiset periaatteet' }
 		]
 	},
 	{ href: '/yhteys', label: 'Yhteystiedot' },];

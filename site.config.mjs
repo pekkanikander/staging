@@ -2,7 +2,7 @@ export const siteLang = 'fi';
 
 const footnoteLocalizations = {
 	fi: {
-		footnoteLabel: 'Alaviitteet',
+		footnoteLabel: 'Huomautukset',
 		footnoteLabelProperties: {
 			className: ['footnotes-label'],
 		},

@@ -51,12 +51,6 @@ Tällä hetkellä ainoa teknistä osaamista omaava osamme on [Pekka](/meista#pek
 
 Pekka on tehnyt ohjelmistokehitystä vuodesta 1980,
 niin yksin kuin johtaen pieniä kehitystiimejä.
-Hän on ollut mukana kirjoittamassa reilua sataa vertaisarvioituja julkaisua ja standardia,
-joihin on viitattu noin 10000 kertaa.
-[Google Scholarin mukaan](https://scholar.google.com/citations?user=hkoBG7oAAAAJ&hl=en&oi=ao)
-hänen H-indeksinsä on 47;
-[research.com:in mukaan](https://research.com/u/pekka-nikander)
-D-indeksi on 41.
 
 Pekan keskeisiä osaamisalueita ovat tietoturva ja tavaroiden Internet (IoT).
 
